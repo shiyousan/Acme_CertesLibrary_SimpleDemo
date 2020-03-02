@@ -1,0 +1,20 @@
+{
+  "AccountName": "yourself@mail.com",
+  "AccountPemKey": "",
+  "Identifiers": [
+    "yourself-domain.com",
+    "www.yourself-domain.com"
+  ],
+  "CertPfxName": "filename.pfx",
+  "CertFullChainPemName": "filename.pem",
+  "ServerCertDisplayName": "ServerCertDisplayName",
+  "ServerCertPwd": "password",
+  "CertSavePath": "C:\\ProgramData\\ACMEv2\\",
+  "ChallengeTokenSavePath": "X:\\www\\yourself-site\\.well-known\\acme-challenge\\",
+  "CommonName": "yourself-domain.com",
+  "CountryName": "yourself-country",
+  "State": "yourself-state",
+  "Locality": "yourself-locality",
+  "Organization": "yourself-organization",
+  "OrganizationUnit": "Dev"
+}
