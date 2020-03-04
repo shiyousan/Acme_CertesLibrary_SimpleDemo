@@ -1,0 +1,20 @@
+{
+  "AccountName": "yourself@mail.com",
+  "AccountPemKey": "",
+  "Identifiers": [
+    "shiyousan.com",
+    "www.shiyousan.com"
+  ],
+  "CertPfxName": "shiyosuan.com.pfx",
+  "CertFullChainPemName": "shiyosuan.com.pem",
+  "ServerCertDisplayName": "shiyosuan-ssl-cert-acmev2",
+  "ServerCertPwd": "temp.pwd.123",
+  "CertSavePath": "C:\\ProgramData\\ACMEv2\\",
+  "ChallengeTokenSavePath": "D:\\www\\myblog\\.well-known\\acme-challenge\\",
+  "CommonName": "shiyousan.com",
+  "CountryName": "ZH",
+  "State": "Fujian",
+  "Locality": "Xiamen",
+  "Organization": "shiyousan",
+  "OrganizationUnit": "Dev"
+}
